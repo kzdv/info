@@ -115,7 +115,7 @@ All PHP must comply with PSR-2
 
 ### Golang
 
-Use standard Golang conventions as enforced by the complier and `go fmt`.
+Use standard Golang conventions as enforced by the complier and `go fmt`. Repositories should also use and enforce golangci-lint.
 
 ## Licensing
 
